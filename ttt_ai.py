@@ -5,7 +5,7 @@ import time
 
 global configuration
 configuration = input(
-    "\nSelect Configuration:\n (enter 1 for - player vs ai) | (enter 2 for- player vs normal computer) | (enter 3 for - ai vs ai)\n (ai vs ai gameplay runs too fast for us to see so it's slowed down by more than 10000000%)\n ")
+    "\nSelect Configuration:\n (enter 1 for-player vs ai) | (enter 2 for-player vs normal computer) | (enter 3 for-ai vs ai)\n (ai vs ai gameplay runs too fast for us to see so it's slowed down by more than 10000000%)\n ")
 
 if int(configuration) != 3:
     print("\nplayer - O\nAI/Computer - X")
