@@ -1,4 +1,8 @@
-Only requires "pygame" python library
+Only requires "pygame" python library.
+
+It can be installed by running this command in the cmd/terminal:
+
+    pip install pygame
 
 There are 3 types of configurations in the game:
 
