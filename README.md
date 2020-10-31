@@ -1,9 +1,3 @@
-Only requires "pygame" python library.
-
-It can be installed by running this command in the cmd/terminal:
-
-    pip install pygame
-
 There are 3 types of configurations in the game:
 
   1. You vs AI (type "1" for this)
